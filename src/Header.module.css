@@ -1,0 +1,8 @@
+.mainHeader{
+    max-width: 1200px;
+    width: 96%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+}

@@ -1,0 +1,10 @@
+.mainContainer{
+    width: 98%;
+    max-width: 1200px;
+    background-color: #fff;
+    border: 2px solid rgb(77, 117, 138);
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 3rem;
+    padding: 1rem;
+}
